@@ -2,8 +2,6 @@
 
 [![Build Status](https://travis-ci.org/DockYard/ember-cart.svg?branch=master)](https://travis-ci.org/DockYard/ember-cart) [![CircleCI](https://circleci.com/gh/DockYard/ember-cart.svg?style=shield)](https://circleci.com/gh/DockYard/ember-cart) [![npm version](https://badge.fury.io/js/ember-cart.svg)](https://badge.fury.io/js/ember-cart) [![Ember Observer Score](http://emberobserver.com/badges/ember-cart.svg)](http://emberobserver.com/addons/ember-cart)
 
-**[ember-cart is built and maintained by DockYard, contact us for expert Ember.js consulting](https://dockyard.com/ember-consulting)**.
-
 ## About ##
 
 Shopping cart primitives for Ember applications
@@ -11,10 +9,6 @@ Shopping cart primitives for Ember applications
 ## Installing ##
 
 `ember install ember-cart`
-
-## Looking for help? ##
-
-If it is a bug [please open an issue on GitHub](https://github.com/dockyard/ember-cart/issues).
 
 ## Usage ##
 
